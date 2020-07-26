@@ -1,3 +1,13 @@
-# info
+# Recycling starter
 
-api расписан в postman
+
+## Дизайн
+
+[Sketch](/Recycle.sketch)
+
+## API
+Расписывается в 
+[Postman](https://www.postman.com/downloads/)
+
+## Task manager
+[Trello](https://trello.com/restarter/home)
