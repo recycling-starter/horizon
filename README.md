@@ -1,6 +1,10 @@
 # Recycling starter
 
-## Дизайн
+## Task manager
+
+[Trello](https://trello.com/restarter/home)
+
+## Design
 
 + [Дизайн в Sketch](/Recycle.sketch) – самая свежая версия
 + [Дизайн в Figma](https://www.figma.com/file/LK4GIdHkzgfpPhA6VglQah/Recycle) – более удобная для Windows
@@ -23,6 +27,10 @@ Figma не всегда правильно отображает файлы из 
 }
 ```
 
-## Task manager
+## Front-end
 
-[Trello](https://trello.com/restarter/home)
+Размещён по адресу [https://re-starter.herokuapp.com](https://re-starter.herokuapp.com)
+
+## Back-end
+
+Размещён по адресу [https://oreldaniil.pythonanywhere.com](https://oreldaniil.pythonanywhere.com)
