@@ -1,7 +1,8 @@
 # Recycling starter
 
 ## Дизайн
-[Sketch](/Recycle.sketch)
++ [Самая свежая версия (.sketch)](/Recycle.sketch)
++ [Figma](https://www.figma.com/file/LK4GIdHkzgfpPhA6VglQah/Recycle)
 
 ## API
 ### API представляет собой коллекцию запросов в Postman
