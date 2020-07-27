@@ -3,7 +3,7 @@
 ## Task manager
 
 + ~~[Trello](https://trello.com/restarter/home)~~
-+ [Asana](https://app.asana.com/0/1186319379925368)
++ [Asana](https://app.asana.com/0/home/1186317738561554)
 
 ## Design
 
