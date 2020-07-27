@@ -7,7 +7,7 @@
 
 ## Design
 
-+ Новейшая версия дизайна в [Zeplin](https://zpl.io/VOO0ypX)
++ [Новейшая версия дизайна в Zeplin](https://zpl.io/VOO0ypX)
 + [Скачать Zeplin](https://zeplin.io/)
 
 ## API
