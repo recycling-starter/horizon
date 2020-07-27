@@ -7,10 +7,8 @@
 
 ## Design
 
-+ [Дизайн в Sketch](/Recycle.sketch) – самая свежая версия
-+ [Дизайн в Figma](https://www.figma.com/file/LK4GIdHkzgfpPhA6VglQah/Recycle) – более удобная для Windows
-
-Figma не всегда правильно отображает файлы из Sketch, так что лучше сверяться с дизайном с помощью [Lunacy](https://icons8.ru/lunacy)
++ [Zeplin](https://zpl.io/VOO0ypX)
++ [Скачать Zeplin](https://zeplin.io/)
 
 ## API
 
