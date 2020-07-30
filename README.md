@@ -14,7 +14,7 @@
 
 ### API представляет собой коллекцию запросов в Postman
 
-+ [Ссылка на API](https://re-starter.postman.co/collections/10561517-7d26442e-57b6-4b0e-9989-39d4c4fed441)
++ [Ссылка на API](https://documenter.getpostman.com/view/10561517/T1DtfbkE?version=latest)
 + [Скачать Postman](https://www.postman.com/downloads/)
 
 ### Пример кода в Request Body:
