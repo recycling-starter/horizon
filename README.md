@@ -2,8 +2,7 @@
 
 ## Task manager
 
-* ~~[Trello](https://trello.com/restarter/home)~~
-* [Asana](https://app.asana.com/0/home/1186317738561554)
+Работа с задачами происходит в [Asana](https://app.asana.com/0/home/1186317738561554)
 
 ### Как работать с тасками
 
